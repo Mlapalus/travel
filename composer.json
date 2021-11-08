@@ -1,0 +1,12 @@
+{
+    "name": "michellapalus/travel",
+    "description": "Select the good travel depends on the budget and the time",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michel Lapalus",
+            "email": "mlapalus.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
